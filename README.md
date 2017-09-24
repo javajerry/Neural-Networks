@@ -1,2 +1,2 @@
-# Created By: Anshoo Mehra
+Created By: Anshoo Mehra
 # Neural-Networks
